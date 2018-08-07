@@ -1,0 +1,19 @@
+#container {
+    width: 100%;
+    outline: 1px solid aqua; /*outline is better than border as it does not add a pixel*/
+    background: black;
+}
+.brown {
+    background: brown;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    outline: 1px solid pink;
+}
+.red {
+    background: red;
+}
+.blue {
+    background: royalblue;
+}
