@@ -6,9 +6,14 @@
 .brown {
     background: brown;
 }
-.box {
+.box1 {
     width: 200px;
     height: 200px;
+    outline: 1px solid pink;
+}
+.box2{
+    width: 300px;
+    height: 100px;
     outline: 1px solid pink;
 }
 .red {
